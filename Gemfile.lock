@@ -323,9 +323,9 @@ GEM
       net-ssh (>= 2.6.5)
     net-ssh (5.1.0)
     nio4r (2.3.1)
-    nokogiri (1.9.1)
+    nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
-    nokogumbo (1.4.9)
+    nokogumbo (1.5.0)
       nokogiri
     oauth (0.5.4)
     parallel (1.13.0)
@@ -558,7 +558,7 @@ DEPENDENCIES
   minitest
   minitest-stub-const
   minitest-stub_any_instance
-  nokogumbo (= 1.4.9)
+  nokogumbo (= 1.5.0)
   oauth
   opml_saw!
   pg (< 1.0)
